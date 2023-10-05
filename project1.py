@@ -5,9 +5,11 @@ author: Miroslav Babka
 email: miroslav.babka@email.cz
 discord: miro3363_98687
 """
+# Import libraries
+from pprint import pprint
+# Import own modules
 from users import users
 from texts import TEXTS
-from pprint import pprint
 
 # Constants
 SLINE = "----------------------------------------"
